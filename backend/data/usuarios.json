@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "María del Pilar Quispe",
+    "correo": "mp.quispe@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "José Antonio Rojas",
+    "correo": "ja.rojas@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Lucero Ramos Huamán",
+    "correo": "lucero.rh@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Carlos Eduardo Ñahui",
+    "correo": "c.ynauhi@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Diana Salas Canchanya",
+    "correo": "diana.sc@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Jorge Luis Huanca",
+    "correo": "jl.huanca@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Fiorella Mendoza Soto",
+    "correo": "fiorella.ms@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Víctor Hugo Mamani",
+    "correo": "vh.mamani@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Rosa Elena Chambi",
+    "correo": "rosa.ch@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Luis Fernando Cárdenas",
+    "correo": "lf.cardenas@clinica.com",
+    "contrasena": "1234",
+    "rol": "paciente"
+  },
+  {
+    "nombre": "Ángela Yamila Torres",
+    "correo": "angela.torres@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Bruno Medina Vilca",
+    "correo": "bruno.medina@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Katherine Luyo Ccama",
+    "correo": "kat.luyo@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Samuel Alarcón Huerta",
+    "correo": "samuel.alarcon@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Ana Cecilia Apaza",
+    "correo": "ana.apaza@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Gabriel Gamarra Zárate",
+    "correo": "gabriel.gz@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Mónica Fernández Tello",
+    "correo": "monica.ft@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Iván Yupanqui Quinto",
+    "correo": "ivan.yq@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Valeria Zúñiga Cabrera",
+    "correo": "valeria.zc@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  },
+  {
+    "nombre": "Esteban Huamán Coila",
+    "correo": "esteban.hc@clinica.com",
+    "contrasena": "1234",
+    "rol": "disenador"
+  }
+]
