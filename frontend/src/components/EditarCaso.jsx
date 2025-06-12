@@ -38,7 +38,7 @@ const EditarCaso = () => {
       const formData = new FormData();
       formData.append('notas', caso.notas || '');
       formData.append('progreso', caso.progreso);
-      formData.append('ver_prototipo', caso.ver_prototipo === 'si' ? 1 : 0);
+      formData.append('ver_prototipo', parseInt(caso.ver_prototipo)); // CORREGIDO
       formData.append('estado', caso.estado);
       if (archivo) {
         formData.append('archivo', archivo);
@@ -96,12 +96,12 @@ const EditarCaso = () => {
           fullWidth
           label="Ver prototipo"
           name="ver_prototipo"
-          value={caso.ver_prototipo ? 'si' : 'no'}
+          value={String(caso.ver_prototipo)} // CORREGIDO
           onChange={handleChange}
           sx={{ mb: 2 }}
         >
-          <MenuItem value="si">Sí</MenuItem>
-          <MenuItem value="no">No</MenuItem>
+          <MenuItem value="1">Sí</MenuItem>
+          <MenuItem value="0">No</MenuItem>
         </TextField>
 
         <TextField
@@ -119,7 +119,6 @@ const EditarCaso = () => {
           <MenuItem value="finalizado">Finalizado</MenuItem>
         </TextField>
 
-        {/* Subida de archivo */}
         <Typography variant="body1" sx={{ mb: 1 }}>
           Archivo de Diseño de Prótesis:
         </Typography>
